@@ -13,5 +13,7 @@ public class Variable01 {
 
 		int num2 = 30;
 		System.out.println(num2);
+		
+		
 	}
 }
